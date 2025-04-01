@@ -9,12 +9,6 @@ Currently on parental leave and using every naptime to build skills in:
 - 💻 Python scripting & secure coding practices  
 - 🌐 Web application security (OWASP Top 10, Burp Suite, etc.)
 
-## 🚀 Projects I'm working on:
-- `pycrypt-box`: A beginner-friendly Python GUI tool for encrypting files using AES/RSA  
-- `tryhackme-journal`: My notes and walkthroughs from TryHackMe and CTF platforms  
-- `rube1cube-tracker`: A fun timer + leaderboard app for tracking Rubik's Cube progress  
-- `readme-builder`: A Python script that generates custom README templates
-
 ## 📫 Let's Connect
 
 - LinkedIn: [linkedin.com/in/mirosillanpaa](https://www.linkedin.com/in/mirosillanpaa)
